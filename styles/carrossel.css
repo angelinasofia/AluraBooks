@@ -74,6 +74,7 @@
 }
 
 @media screen and (min-width: 1024px) {
+    
     .carrossel__titulo{
         font-size: 26px;
     }
